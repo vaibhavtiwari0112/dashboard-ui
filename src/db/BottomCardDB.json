@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "heading": "Driver Raised Concern",
+      "location": "Load No : 12454, Bill To : RoaDo demo Bangalore",
+      "date": "13 Fab 24",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet turpis ac arcu commodo, sed consequat velit aliquam.",
+      "resolved": false
+    },     
+    {
+      "id": 2,
+      "heading": "Reefer Temp. out of range",
+      "location": "Load No : 12454, Bill To : RoaDo demo Bangalore",
+      "date": "13 Fab 24",
+      "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi.",
+      "resolved": true
+    }
+  ]
+  
